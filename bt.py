@@ -13,6 +13,7 @@
  * @ 参考 阿良 or Youngxj(二次开发)
  * @ 官方API文档 https://www.bt.cn/api-doc.pdf
  * @ 博客 https://www.abudu.top
+ * @ Github https://github.com/am-abudu/BtPanel-API-Python-SDK
  * @ 版本 0.1
 """
 
