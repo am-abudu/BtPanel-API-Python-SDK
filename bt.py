@@ -86,7 +86,7 @@
    download  下载备份文件 ×
       插件管理  ---913
    deployment  宝塔一键部署列表 √
-   SetupPackage 部署任务
+   SetupPackage 部署任务 √
 """
 config = {
     "AddDirBinding": "/site?action=AddDirBinding",
